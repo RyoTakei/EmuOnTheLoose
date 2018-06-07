@@ -1,0 +1,411 @@
+
+EmuOnTheLoose.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lockers
+  rotate: false
+  xy: 1, 1566
+  size: 370, 473
+  orig: 370, 473
+  offset: 0, 0
+  index: -1
+wall1windowDouble
+  rotate: false
+  xy: 1, 999
+  size: 260, 565
+  orig: 260, 565
+  offset: 0, 0
+  index: -1
+wall2windowDouble
+  rotate: false
+  xy: 1, 432
+  size: 260, 565
+  orig: 260, 565
+  offset: 0, 0
+  index: -1
+emu
+  rotate: false
+  xy: 373, 1600
+  size: 307, 439
+  orig: 307, 439
+  offset: 0, 0
+  index: -1
+cubbies1
+  rotate: false
+  xy: 682, 1671
+  size: 342, 368
+  orig: 342, 368
+  offset: 0, 0
+  index: -1
+cubbies2
+  rotate: false
+  xy: 1026, 1679
+  size: 342, 360
+  orig: 342, 360
+  offset: 0, 0
+  index: -1
+teacherDesk
+  rotate: false
+  xy: 1370, 1710
+  size: 318, 329
+  orig: 318, 329
+  offset: 0, 0
+  index: -1
+door1closed
+  rotate: false
+  xy: 263, 1063
+  size: 129, 501
+  orig: 129, 501
+  offset: 0, 0
+  index: -1
+wall1Flag
+  rotate: false
+  xy: 394, 1097
+  size: 194, 501
+  orig: 194, 501
+  offset: 0, 0
+  index: -1
+door1open
+  rotate: false
+  xy: 263, 560
+  size: 134, 501
+  orig: 134, 501
+  offset: 0, 0
+  index: -1
+door2open
+  rotate: false
+  xy: 399, 594
+  size: 134, 501
+  orig: 134, 501
+  offset: 0, 0
+  index: -1
+door2closed
+  rotate: false
+  xy: 590, 1097
+  size: 129, 501
+  orig: 129, 501
+  offset: 0, 0
+  index: -1
+wall1ChalkRight
+  rotate: false
+  xy: 535, 594
+  size: 130, 501
+  orig: 130, 501
+  offset: 0, 0
+  index: -1
+wall1ChalkCenter
+  rotate: false
+  xy: 721, 1168
+  size: 129, 501
+  orig: 129, 501
+  offset: 0, 0
+  index: -1
+wall1ChalkLeft
+  rotate: false
+  xy: 852, 1168
+  size: 129, 501
+  orig: 129, 501
+  offset: 0, 0
+  index: -1
+wall1Blank
+  rotate: false
+  xy: 667, 594
+  size: 128, 501
+  orig: 128, 501
+  offset: 0, 0
+  index: -1
+wall1ChalkWriting
+  rotate: false
+  xy: 797, 665
+  size: 129, 501
+  orig: 129, 501
+  offset: 0, 0
+  index: -1
+wall1window
+  rotate: false
+  xy: 928, 665
+  size: 129, 501
+  orig: 129, 501
+  offset: 0, 0
+  index: -1
+wall2Bell
+  rotate: false
+  xy: 983, 1168
+  size: 129, 501
+  orig: 129, 501
+  offset: 0, 0
+  index: -1
+wall2Blank
+  rotate: false
+  xy: 1114, 1176
+  size: 129, 501
+  orig: 129, 501
+  offset: 0, 0
+  index: -1
+wall2Clock
+  rotate: false
+  xy: 1245, 1176
+  size: 129, 501
+  orig: 129, 501
+  offset: 0, 0
+  index: -1
+wall2window
+  rotate: false
+  xy: 1376, 1207
+  size: 129, 501
+  orig: 129, 501
+  offset: 0, 0
+  index: -1
+deskOpen
+  rotate: false
+  xy: 1, 126
+  size: 205, 304
+  orig: 205, 304
+  offset: 0, 0
+  index: -1
+tableMidGlobe
+  rotate: false
+  xy: 1690, 1746
+  size: 205, 293
+  orig: 205, 293
+  offset: 0, 0
+  index: -1
+angelinaFrontWalk2
+  rotate: false
+  xy: 1897, 1697
+  size: 150, 342
+  orig: 150, 342
+  offset: 0, 0
+  index: -1
+suziInteract
+  rotate: false
+  xy: 1507, 1365
+  size: 143, 343
+  orig: 143, 343
+  offset: 0, 0
+  index: -1
+milo
+  rotate: false
+  xy: 1059, 812
+  size: 116, 354
+  orig: 116, 354
+  offset: 0, 0
+  index: -1
+suzi
+  rotate: false
+  xy: 1177, 831
+  size: 141, 343
+  orig: 141, 343
+  offset: 0, 0
+  index: -1
+miloInteract
+  rotate: false
+  xy: 1320, 820
+  size: 121, 354
+  orig: 121, 354
+  offset: 0, 0
+  index: -1
+angelinaBack
+  rotate: false
+  xy: 1652, 1366
+  size: 121, 342
+  orig: 121, 342
+  offset: 0, 0
+  index: -1
+angelinaBackUse
+  rotate: false
+  xy: 1443, 863
+  size: 124, 342
+  orig: 124, 342
+  offset: 0, 0
+  index: -1
+angelinaBackWalk1
+  rotate: false
+  xy: 208, 88
+  size: 128, 342
+  orig: 128, 342
+  offset: 0, 0
+  index: -1
+angelinaBackWalk2
+  rotate: false
+  xy: 1775, 1353
+  size: 137, 342
+  orig: 137, 342
+  offset: 0, 0
+  index: -1
+angelinaFrontInteract
+  rotate: false
+  xy: 1914, 1353
+  size: 122, 342
+  orig: 122, 342
+  offset: 0, 0
+  index: -1
+hatchClosed
+  rotate: false
+  xy: 797, 534
+  size: 257, 129
+  orig: 257, 129
+  offset: 0, 0
+  index: -1
+hatchOpen
+  rotate: false
+  xy: 399, 463
+  size: 257, 129
+  orig: 257, 129
+  offset: 0, 0
+  index: -1
+angelinaFrontWalk1
+  rotate: false
+  xy: 338, 119
+  size: 135, 342
+  orig: 135, 342
+  offset: 0, 0
+  index: -1
+angelinaFront
+  rotate: false
+  xy: 475, 119
+  size: 121, 342
+  orig: 121, 342
+  offset: 0, 0
+  index: -1
+tableMidBook
+  rotate: false
+  xy: 598, 217
+  size: 205, 244
+  orig: 205, 244
+  offset: 0, 0
+  index: -1
+deskBackpack
+  rotate: false
+  xy: 805, 294
+  size: 205, 238
+  orig: 205, 238
+  offset: 0, 0
+  index: -1
+tileBlack
+  rotate: false
+  xy: 598, 86
+  size: 256, 129
+  orig: 256, 129
+  offset: 0, 0
+  index: -1
+deskEmpty
+  rotate: false
+  xy: 856, 59
+  size: 204, 233
+  orig: 204, 233
+  offset: 0, 0
+  index: -1
+deskFull
+  rotate: false
+  xy: 1012, 299
+  size: 205, 233
+  orig: 205, 233
+  offset: 0, 0
+  index: -1
+deskPapers
+  rotate: false
+  xy: 1062, 64
+  size: 205, 233
+  orig: 205, 233
+  offset: 0, 0
+  index: -1
+tileBlue
+  rotate: false
+  xy: 1056, 534
+  size: 256, 129
+  orig: 256, 129
+  offset: 0, 0
+  index: -1
+tableBottom
+  rotate: false
+  xy: 1219, 299
+  size: 205, 233
+  orig: 205, 233
+  offset: 0, 0
+  index: -1
+tableLeft
+  rotate: false
+  xy: 1269, 64
+  size: 205, 233
+  orig: 205, 233
+  offset: 0, 0
+  index: -1
+tileWood
+  rotate: false
+  xy: 1507, 1234
+  size: 257, 129
+  orig: 257, 129
+  offset: 0, 0
+  index: -1
+tableMidBookClosed
+  rotate: false
+  xy: 1569, 999
+  size: 205, 233
+  orig: 205, 233
+  offset: 0, 0
+  index: -1
+tableMidPapers
+  rotate: false
+  xy: 1569, 764
+  size: 205, 233
+  orig: 205, 233
+  offset: 0, 0
+  index: -1
+tableRight
+  rotate: false
+  xy: 1776, 1118
+  size: 205, 233
+  orig: 205, 233
+  offset: 0, 0
+  index: -1
+tableTop
+  rotate: false
+  xy: 1776, 883
+  size: 205, 233
+  orig: 205, 233
+  offset: 0, 0
+  index: -1
+tileWoodPapers
+  rotate: false
+  xy: 1776, 752
+  size: 257, 129
+  orig: 257, 129
+  offset: 0, 0
+  index: -1
+stoolBlue
+  rotate: false
+  xy: 1, 1
+  size: 99, 123
+  orig: 99, 123
+  offset: 0, 0
+  index: -1
+stoolGreen
+  rotate: false
+  xy: 658, 469
+  size: 99, 123
+  orig: 99, 123
+  offset: 0, 0
+  index: -1
+stoolPurple
+  rotate: false
+  xy: 1059, 687
+  size: 99, 123
+  orig: 99, 123
+  offset: 0, 0
+  index: -1
+stoolRed
+  rotate: false
+  xy: 102, 1
+  size: 99, 123
+  orig: 99, 123
+  offset: 0, 0
+  index: -1
+waterFountain
+  rotate: false
+  xy: 1314, 607
+  size: 203, 211
+  orig: 203, 211
+  offset: 0, 0
+  index: -1
