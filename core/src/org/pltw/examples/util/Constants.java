@@ -30,4 +30,8 @@ public class Constants {
     public static final int SAMPLE_MAP_HEIGHT = 5;
     public static final int WALL_ROW = 0;
     public static final int WALL_COL = 0;
+
+    // 4.1.2
+    public static final int WIDTH = 6;
+    public static final int HEIGHT = 6;
 }

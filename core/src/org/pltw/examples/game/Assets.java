@@ -15,7 +15,8 @@
  ******************************************************************************/
 
 /**
- * Project Lead The Way, 2016.
+ * Created by wdumas on 10/14/2015.
+ * modifications to the original source include changing the number and type of assets loaded.
  */
 
 package org.pltw.examples.game;
@@ -51,7 +52,7 @@ public class Assets implements Disposable, AssetErrorListener {
         public final AtlasRegion wall1Window;
         public final AtlasRegion tileBlack;
         public final AtlasRegion wall2Blank;
-        // ToDo Add more AtlasRegions per Activity 4.1.1 Part IV
+        public final AtlasRegion tileWood;
 
         public AssetRoomTiles (TextureAtlas atlas) {
             tileBlue = atlas.findRegion("tileBlue");
@@ -59,7 +60,7 @@ public class Assets implements Disposable, AssetErrorListener {
             wall1Window = atlas.findRegion("wall1Window");
             tileBlack = atlas.findRegion("tileBlack");
             wall2Blank = atlas.findRegion("wall2Blank");
-            // ToDo Initialize AtlasRegions from atlas per Activity 4.1.1 Part IV
+            tileWood = atlas.findRegion("tileWood");
         }
     }
 

@@ -38,8 +38,8 @@ public class WorldView implements Disposable {
 	private void renderTestObjects () {
 		batch.setProjectionMatrix(camera.combined);
 		batch.begin();
-        for (int i = 0; i < Constants.SAMPLE_MAP_HEIGHT; i++){
-            for (int j = 0; j < Constants.SAMPLE_MAP_WIDTH; j++) {
+        for (int i = 0; i < Constants.HEIGHT; i++){
+            for (int j = 0; j < Constants.WIDTH; j++) {
                 if (worldModel.sampleMap[i][j] != null) {
                     worldModel.sampleMap[i][j].draw(batch);
                 }
